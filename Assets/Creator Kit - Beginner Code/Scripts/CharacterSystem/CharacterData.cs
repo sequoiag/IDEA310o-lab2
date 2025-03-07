@@ -19,7 +19,6 @@ namespace CreatorKitCode
         /// The starting weapon equipped when the Character is created. Set through the Unity Editor.
         /// </summary>
         public Weapon StartingWeapon;
-
         public InventorySystem Inventory = new InventorySystem();
         public EquipmentSystem Equipment = new EquipmentSystem();
 
@@ -39,7 +38,7 @@ namespace CreatorKitCode
             get { return m_AttackCoolDown <= 0.0f; }
         }
 
-        public float m_AttackCoolDown;
+        float m_AttackCoolDown;
 
         public void Init()
         {
@@ -51,8 +50,7 @@ namespace CreatorKitCode
             {
                 StartingWeapon.UsedBy(this);
                 Equipment.InitWeapon(StartingWeapon, this);
-            } 
-
+            }
         }
 
         void Awake()
@@ -65,7 +63,6 @@ namespace CreatorKitCode
         // Update is called once per frame
         void Update()
         {
-
             Stats.Tick();
 
             if (m_AttackCoolDown > 0.0f)

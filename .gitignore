@@ -45,10 +45,8 @@ ExportedObj/
 *.pdb
 *.mdb
 *.opendb
-*.VC.db
+*.VC.d
 *.tif
-
-#3D models are too big :,(
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -64,7 +62,6 @@ sysinfo.txt
 *.unitypackage
 *.unitypackage.meta
 *.app
-*.zip
 
 # Crashlytics generated file
 crashlytics-build.properties
