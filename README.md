@@ -1,5 +1,5 @@
 Youtube Link: https://youtu.be/JM5HtgCm1AM
-Github Link: https://github.com/sequoiag/310oLab2
+Github Link: [https://github.com/sequoiag/310oLab2](https://github.com/sequoiag/IDEA310o-lab2)
 
 In my gitignore file I added a *.tif so the building are not in my github because they were too big to merge. However the building are in my build :)
 
