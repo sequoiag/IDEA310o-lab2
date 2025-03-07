@@ -1,4 +1,4 @@
-Youtube Link: https://youtu.be/JM5HtgCm1AM Github Link: https://github.com/sequoiag/310oLab2
+Youtube Link: https://youtu.be/JM5HtgCm1AM Github Link: https://github.com/sequoiag/IDEA310o-lab2
 
 Build google drive link: https://drive.google.com/file/d/1e59LHpM6-FxLgaQ9V7IGbTxHAqWaZ_bt/view?usp=drive_link
 
