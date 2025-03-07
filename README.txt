@@ -1,5 +1,7 @@
 Youtube Link: https://youtu.be/JM5HtgCm1AM Github Link: https://github.com/sequoiag/310oLab2
 
+Build google drive link: https://drive.google.com/file/d/1e59LHpM6-FxLgaQ9V7IGbTxHAqWaZ_bt/view?usp=drive_link
+
 In my gitignore file I added a *.tif so the building are not in my github because they were too big to merge. However the building are in my build :)
 
 I mainly followed the tutorial and did not make much of a change to the game. However I added a useable item, "evil potion", which kills the player when 
